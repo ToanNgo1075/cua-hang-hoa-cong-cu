@@ -14,7 +14,7 @@
                     <img src="images/portfolio/05.jpg" alt="slider image 5" title="#htmlcaption" />
                 </div>
                 <div id="htmlcaption" class="nivo-html-caption">
-                    <strong>Example</strong> caption with <a href="http://dev7studios.com" rel="nofollow">a credit
+                    <strong>Vi du sieu cu the</strong> caption with <a href="http://dev7studios.com" rel="nofollow">a credit
                         link</a> for <em>this slider</em>.
                 </div>
             </div>
