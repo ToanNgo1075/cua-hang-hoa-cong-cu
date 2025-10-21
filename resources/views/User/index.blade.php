@@ -14,7 +14,7 @@
                     <img src="images/portfolio/05.jpg" alt="slider image 5" title="#htmlcaption" />
                 </div>
                 <div id="htmlcaption" class="nivo-html-caption">
-                    <strong>Vi du sieu cu the</strong> caption with <a href="http://dev7studios.com" rel="nofollow">a credit
+                    <strong>Example</strong> caption with <a href="http://dev7studios.com" rel="nofollow">a credit
                         link</a> for <em>this slider</em>.
                 </div>
             </div>
@@ -61,7 +61,7 @@
 
 
             <div id="content" class="right">
-                <h2>Welcome to Floral Shop</h2>
+                <h2>Chào mứng bạn đến với Floral Shop</h2>
                 <p>Floral Shop is free website template by templatemo. Sed in suscipit risus, eget consectetur justo.
                     Praesent lacinia, nisi quis commodo consectetur, diam magna laoreet felis, a pulvinar mauris enim in
                     felis. Phasellus in mauris velit. In pellentesque massa in nisl auctor pellentesque. Donec fermentum
